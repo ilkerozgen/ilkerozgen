@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ilkerozgen/ilkerozgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **B.Sc. in Computer Science** (2019–2024) - Bilkent University
+- 💻 Experienced in machine learning, web development, and data-driven applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+### Programming Languages:
+- **Python**, **Java**, **C/C++**, **JavaScript**
+
+### Databases:
+- **SQL/PostgreSQL**
+
+### Other:
+- **Git**, **Docker**, **Jira**, **Agile/Scrum**
+
+---
+
+## Connect
+
+- **Website**: [https://ilkerozgen.github.io/PortfolioWebsite/](https://ilkerozgen.github.io/PortfolioWebsite/)
+- **LinkedIn**: [https://www.linkedin.com/in/ilker-%C3%B6zgen-103776204/](https://www.linkedin.com/in/ilker-%C3%B6zgen-103776204/)
+- **Email**: [ilkerozgen152@gmail.com](mailto:ilkerozgen152@gmail.com)
