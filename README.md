@@ -1,7 +1,7 @@
 ## About Me
 
 - 🎓 **B.Sc. in Computer Science** (2019–2024) - Bilkent University
-- 💻 Experienced in machine learning, web development, and data-driven applications
+- 💻 Experienced in machine learning, web development, and data science
 
 ---
 
