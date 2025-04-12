@@ -2,7 +2,7 @@
 
 🎯 **Software Engineer in Test @ ASELSAN**  
 🎓 **BSc in Computer Science, Bilkent University (2019–2024)**  
-📍 Based in Ankara, Türkiye  
+📍  Based in Ankara, Türkiye  
 🌍 Open to international & remote opportunities  
 
 ---
